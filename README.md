@@ -11,10 +11,10 @@
    ## Developers
   <div align="center">
     
-  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Buddy x](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
-----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [Buddy x](https://github.com/MrChaby) 
-  Modifiying as public | Modifiying  as   public
+  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Buddy x](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) | [![KNOWN-SOLO](https://github.com/KNOWN-SOLO.png?size=100)](https://github.com/KNOWN-SOLO)
+----|----|----
+[RAVANA-SL](https://github.com/RAVANA-SL)  | [Buddy x](https://github.com/MrChaby) | [KNOWN-SOLO](https://github.com/KNOWN-SOLO)
+  Modifiying as public | Modifiying  as   public | help
   </div>
     
 
