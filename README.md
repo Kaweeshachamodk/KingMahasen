@@ -13,7 +13,7 @@
     
   [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Buddy x](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) | [![farhan-dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) 
 ----|----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [Buddy x](https://github.com/MrChaby) | [farhan-dqz](https://github.com/farhan-dqz)
+[RAVANA-SL](https://github.com/RAVANA-SL)  | [Buddy x](https://github.com/MrChaby) | [farhan-dqz](https://github.com/farhan-dqz) | [SLBADBOY](https://github.com/SLBADBOY/ssssssssss)
   Modifiying as public | Modifiying  as   public | Base, Bug Fixes, Modules
   </div>
     
