@@ -1,4 +1,5 @@
-# Exclusively from KingMahasen
+/* # Exclusively from KingMahasen
+*/
 
 
 const Asena = require('../events');
