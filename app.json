@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "බොට් භාෂාව. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
-            "value": "TR"
+            "value": "EN"
         },
         "ANTİ_LİNK": {
             "description": "සබැඳි අවහිර කිරීමේ පද්ධතිය.",
@@ -88,7 +88,7 @@
         "WORK_TYPE": {
             "description": "KingMahasen Working Type. ඔබ “public” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම බොට් භාවිතා කළ හැකිය. වෙනත් ආකාරයකින් ඔබ “private” භාවිතා කරන්නේ නම්, ඔබේ bot භාවිතා කළ හැක්කේ ඔබට පමණි.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
@@ -106,7 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "```Alive 𝓚𝓲𝓷𝓰𝓜𝓪𝓱𝓪𝓼𝓮𝓷 v 1.0 _____ 🤞😎🔰```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
