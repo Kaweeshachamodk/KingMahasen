@@ -13,7 +13,7 @@ const Ln = "Make memes your own\nඔබගේම මිම් සාදාගැ
 
 if (Config.WORKTYPE == 'private') {
     
-      Asena.addCommand({pattern: 'memes', fromMe: true, desc: Ln,}, (async (message, match) => {
+      Asena.addCommand({pattern: 'meem', fromMe: true, desc: Ln,}, (async (message, match) => {
 
     await message.client.sendMessage(
   
@@ -95,7 +95,7 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
     
-        Asena.addCommand({pattern: 'memes', fromMe: false, desc: Ln,}, (async (message, match) => {
+        Asena.addCommand({pattern: 'meem', fromMe: false, desc: Ln,}, (async (message, match) => {
 
     await message.client.sendMessage(
   
