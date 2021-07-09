@@ -99,6 +99,21 @@
             "required": true,
             "value": "false"
         },
+        "ALIVE_LOGO": {
+            "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/1d85c8dc7f7f885994185.jpg"
+        },
+        "WELCOME_LOGO": {
+            "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://tinyurl.com/KingMahasen"
+        },
+        "BYE_LOGO": {
+            "description": "Goodbye message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://tinyurl.com/kingmahasengb"
+        },
         "REMOVE_BG_API_KEY": {
             "description": "ඡායාරූප වල පසුබිම ඉවත් කරයි. https://remove.bg",
             "required": false
