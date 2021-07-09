@@ -2078,7 +2078,7 @@ else if (Config.WORKTYPE == 'public') {
             .outputOptions(["-y", "-vf", "eq=contrast=1.3:saturation=1.5:brightness=-0.1"])
             .save('output.jpg')
             .on('end', async () => {
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by 𝓚𝓲𝓷𝓰𝓜𝓪𝓱𝓪𝓼𝓮𝓷 v 1.0 _____ 🤞😎🔰'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by RAVANA '});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
@@ -2104,7 +2104,7 @@ else if (Config.WORKTYPE == 'public') {
             .format('mp4')
             .save('slowmo.mp4')
             .on('end', async () => {
-                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by 𝓚𝓲𝓷𝓰𝓜𝓪𝓱𝓪𝓼𝓮𝓷 v 1.0 _____ 🤞😎🔰'});
+                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by RAVANA '});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
