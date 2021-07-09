@@ -121,7 +121,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "```Alive 𝓚𝓲𝓷𝓰𝓜𝓪𝓱𝓪𝓼𝓮𝓷 v 1.0 _____ 🤞😎🔰```"
+            "value": "default"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
