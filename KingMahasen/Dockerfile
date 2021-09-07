@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/RAVANA-SL/KingMahasen /root/KingMahasen
+RUN git clone https://github.com/Kaweeshachamodk/KingMahasen /root/KingMahasen
 WORKDIR /root/KingMahasen/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
